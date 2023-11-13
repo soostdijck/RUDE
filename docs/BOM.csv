@@ -2,7 +2,7 @@ PART,NAME,QTY,NOTES
 
 Electronics, -, -,
 ESC + motor, at least 3S and 3660, 1, 3660 = 36mm diameter & 60mm length but anything 36xx fits
-ESC + motor recommended, Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC, wheeee
+ESC + motor recommended, Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC, 1, wheeee
 battery for recommended motor,4S 4700mAh,1, https://aliexpress.com/item/1005003343658769.html
 RX + TX,Dumbo RC X6,1,long range; easy to setup
 servo,DS3240-180,1,https://aliexpress.com/item/1943129663.html
