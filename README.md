@@ -9,6 +9,6 @@ Requires a 250x250 bed.
 
 [Printing instructions](docs/printing.md)
 
-[Bill Of Materials](docs/BOM.md)
+[Bill Of Materials](docs/BOM.csv)
 
 [Discord](https://discord.gg/4mxkpQYTXy)
