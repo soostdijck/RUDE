@@ -1,6 +1,6 @@
 # BOM
 
-Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM.
+Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Nothing else is necessary if you come from Robak.
 
 ## Electronics
 

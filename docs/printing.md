@@ -1,6 +1,8 @@
 # Print settings
 Everything must be printed with 10 walls and 100% infill. Abrasives are fine.
 
+Make sure to print [this](Calibration.stl) first for every filament to make sure your shrinkage is fine. TPU shrinkage should be 100% and for ABS shrinkage 99.3%.
+
 ## ABS/ASA/Nylon/PC
 Part | Number | Support
 --- | --- | ---
