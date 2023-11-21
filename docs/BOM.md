@@ -2,6 +2,8 @@
 
 Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional 8pcs M3x30 bolts + hexnuts are necessary if you come from Robak.
 
+This car can handle a much more powerful motor than Robak, I don't advise anything below 3S.
+
 ## Electronics
 
 Part | Name | QTY | Notes
@@ -55,12 +57,12 @@ CA glue |superglue |20ml |tire glue
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-M3 Socket Head Screws | SHCS 2x45 8x30 4x20 4x16 4x12 | |
-M3 Flat Head Screws | FHCS 30/25/20/16/12mm |20pcs each |
+M3 Socket Head Screws | M3 SHCS 2x45 8x30 4x20 4x16 4x12 | |
+M3 Flat Head Screws | M3 FHCS 30/25/20/16/12mm |20pcs each |
 M3 Thin Square Nuts  |DIN 562 |50 |ht. 1.8mm
-M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |20 | for arm hinges
-M3 General Purpose Washers |DIN 125; ISO 7089 |10 |motor mount to the plate
-M4 Nylon-Insert Locknuts |DIN 985; ISO 10511 |20 |for wheels
-M4 General Purpose Washers |DIN 125; ISO 7089 |20 |for wheels
+M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |12 | for arm hinges
+M3 General Purpose Washers |DIN 125; ISO 7089 |3 |motor mount to the plate
+M4 Nylon-Insert Locknuts |DIN 985; ISO 10511 |4 |for wheels
+M4 General Purpose Washers |DIN 125; ISO 7089 |4 |for wheels
 M2x10mm Socket Head Screws |DIN 912; ISO 4762 |10 |bolt 2 body parts together
 M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together
