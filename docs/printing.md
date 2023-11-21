@@ -9,7 +9,6 @@ Part | Number | Support
 MotorPlate | 1 | Optional
 DiffCase | 2 | Optional
 DiffShim | 2 | No
-Body | 1 | Yes
 BellCranks | 1 | No
 Link | 1 | No
 ServoMount | 1 | No
@@ -28,4 +27,4 @@ BodyClip | 1 | No
 BodyGroove | 1 | No
 TopDeck | 1 | No
 
-The 2 braces can be printed from any material without supports.
+The 2x brace and body can be printed from any material without supports.

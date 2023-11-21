@@ -7,12 +7,14 @@ Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included i
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | at least 3S and 3660 | 1 | 3660 = 36mm diameter & 60mm length but anything 36xx fits
-ESC + motor recommended | Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC | 1 | wheeee
+ESC + motor recommended | Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC | 1 | recommended
 battery for recommended motor |4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
 RX + TX | Dumbo RC X6 |1 |long range; easy to setup
 servo | DS3240-180 |1 |https://aliexpress.com/item/1943129663.html
 
 ## HSP
+
+Buy a complete bag here: 
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
@@ -29,8 +31,10 @@ drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
 pinion gear | HSP 11184 |1 |29T ⌀5mm, check shaft of your motor
 ball head screw | HSP 02038 |4 |for steering
-grub screws | HSP 02099 |20 | spares
+grub screws | HSP 02099 |10 | spares
 main gear pin | HSP 08027 |1 | spares
+small bearings |5x10x4mm | 7 | order a few more if you can [bearings that come with HSP parts already subtracted]
+big bearings |10x15x4mm | 4 | order a few more if you can
 
 ## Other
 
@@ -38,22 +42,20 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 wheels | HSP 88005 | 4 | metal rims preferred (good value: https://www.aliexpress.com/item/1005002775155695.html )
 shocks |INJORA Aluminum Shock Absorber 100mm |4 |https://www.aliexpress.com/item/1005004599082114.html
-small bearings |5x10x4mm | 5 | order a few more if you can [bearings that come with HSP parts already subtracted]
-big bearings |10x15x4mm | 4 | order a few more if you can
 battery straps |20mm width; 200mm long |2 |max width 25mm
 DIY hinge pins |⌀3mm steel rod | 4x70mm | https://aliexpress.com/item/1005005041338002.html
 DIY hinge pins |⌀5mm steel rod | 2x190mm | buying 400mm rods is best value [different from stock Robak]
-sillicone oil (front & rear shocks) |700 cSt |50ml |around 3ml per one shock needed
-sillicone oil (diffs) |80.000 cSt |50ml |50.000-100.000 cSt will work
-thread-locking fluid | |50ml |Medium strength (blue) to strong (green)
-lithium grease | |50ml |or any other grease for gears
-CA glue |superglue |30ml |tire glue
+sillicone oil (front & rear shocks) | 700 cSt | 20ml | anything 500-1000 cSt will work
+sillicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work
+thread-locking fluid | | 20ml |Medium strength (blue) to strong (green)
+lithium grease | | 20ml |or any other grease for gears
+CA glue |superglue |20ml |tire glue
 
 ## Bolts
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-M3 Socket Head Screws | SHCS 30/25/20/16/12mm |20pcs each |
+M3 Socket Head Screws | SHCS 2x45 8x30 4x20 4x16 4x12 | |
 M3 Flat Head Screws | FHCS 30/25/20/16/12mm |20pcs each |
 M3 Thin Square Nuts  |DIN 562 |50 |ht. 1.8mm
 M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |20 | for arm hinges

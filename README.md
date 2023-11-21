@@ -2,7 +2,7 @@
 
 A 3D Printed RC car based on [Robak v2.2](https://github.com/robaki-dev/robak/).
 
-The most resilient RC car on the planet because I just keep hitting trees and I can't help myself launching it 10m up in the air.
+The most resilient RC car on the planet!! For those who keep hitting trees or can't help themselves launching RC cars 10m up in the air.
 If you break this car after flying out of your apartment window at 100m height I consider this project a fail and I will try to fix it.
 
 Requires a 261x261 bed. For smaller beds the chassis needs to be splitted.
