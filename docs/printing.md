@@ -3,6 +3,8 @@ Everything must be printed with 10 walls and 100% infill. Abrasives are fine.
 
 Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. TPU shrinkage should be 99.8-100% and for ABS shrinkage 99.3-99.5%.
 
+Files in STEP folder are modified from original Robak v2.2. Files in STL folder haven't changed.
+
 ## ABS/ASA/Nylon/PC
 Part | Number | Support
 --- | --- | ---
@@ -13,6 +15,8 @@ BellCranks | 1 | No
 Link | 1 | No
 ServoMount | 1 | No
 ESCbracket | 1 | No
+
+ServoMount / ESCbracket should be adjusted for your ESC. EZRUN MAX10 is supported and also a generic ESCbracket for some no-brand ESCs. Please share your custom-made brackets on discord.
 
 ## TPU 95A or harder.
 Part | Number | Support

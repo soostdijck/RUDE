@@ -8,11 +8,11 @@ This car can handle a much more powerful motor than Robak, I don't advise anythi
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-ESC + motor | at least 3S and 3660 | 1 | 3660 = 36mm diameter & 60mm length but anything 36xx fits
+ESC + motor | at least 3S and 3660 | 1 | 3660 = 36mm diameter & 60mm length but anything 36xx fits, 42mm motor support is possible too
 ESC + motor recommended | Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC | 1 | recommended
 battery for recommended motor |4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
 RX + TX | Dumbo RC X6 |1 |long range; easy to setup
-servo | DS3240-180 |1 |https://aliexpress.com/item/1943129663.html
+servo | DS3240-180 or any other 180 deg variant |1 |https://aliexpress.com/item/1943129663.html
 
 ## HSP
 
@@ -42,7 +42,7 @@ big bearings |10x15x4mm | 4 | order a few more if you can
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-wheels | HSP 88005 | 4 | metal rims preferred (good value: https://www.aliexpress.com/item/1005002775155695.html )
+wheels | HSP 88005 | 4 | metal rims preferred ( https://aliexpress.com/item/4000537479774.html )
 shocks |INJORA Aluminum Shock Absorber 100mm |4 |https://www.aliexpress.com/item/1005004599082114.html
 battery straps |20mm width; 200mm long |2 |max width 25mm
 DIY hinge pins |⌀3mm steel rod | 4x70mm | https://aliexpress.com/item/1005005041338002.html
@@ -64,5 +64,12 @@ M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |12 | for arm hinges
 M3 General Purpose Washers |DIN 125; ISO 7089 |3 |motor mount to the plate
 M4 Nylon-Insert Locknuts |DIN 985; ISO 10511 |4 |for wheels
 M4 General Purpose Washers |DIN 125; ISO 7089 |4 |for wheels
+
+## For stock body
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
 M2x10mm Socket Head Screws |DIN 912; ISO 4762 |10 |bolt 2 body parts together
 M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together
+
+## More body options planned
