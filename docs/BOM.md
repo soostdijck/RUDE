@@ -1,18 +1,18 @@
 # BOM
 
-Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional 8pcs M3x30 bolts + hexnuts are necessary if you come from Robak.
+Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + hexnuts are necessary if you come from Robak.
 
-This car can handle a much more powerful motor than Robak, I don't advise anything below 3S.
+This car can handle a more powerful motor than Robak, I don't advise anything below 3S.
 
 ## Electronics
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-ESC + motor | at least 3S and 3660 | 1 | 3660 = 36mm diameter & 60mm length but anything 36xx fits, 42mm motor support is possible too
-ESC + motor recommended | Hobbywing Ezrun MAX10 G3 3665 2400KV + G2 140A ESC | 1 | recommended
-battery for recommended motor |4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
-RX + TX | Dumbo RC X6 |1 |long range; easy to setup
-servo | DS3240-180 or any other 180 deg variant |1 |https://aliexpress.com/item/1943129663.html
+ESC + motor | 36xx or 42xx up to 80mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length. 42mm motor supported but untested as of yet. A special chassis for 74-80mm motors is available.
+ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 series are great
+battery for recommended motor | 4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
+RX + TX | Dumbo RC X6 | 1 |long range; easy to setup
+servo | DS3240-180 or any other 180 deg variant | 1 | https://aliexpress.com/item/1943129663.html
 
 ## HSP
 
@@ -31,12 +31,24 @@ servo link | HSP 02012 |1 |
 steering links | HSP 06016 |1 |one pair
 drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
-pinion gear | HSP 11184 |1 |29T ⌀5mm, check shaft of your motor
+pinion gear | HSP 11184 |1 | 29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
 ball head screw | HSP 02038 |4 |for steering
-grub screws | HSP 02099 |10 | spares
-main gear pin | HSP 08027 |1 | spares
-small bearings |5x10x4mm | 7 | order a few more if you can [bearings that come with HSP parts already subtracted]
-big bearings |10x15x4mm | 4 | order a few more if you can
+small bearings |5x10x4mm | 5 | already subtracted the bearings that come with hsp parts
+big bearings |10x15x4mm | 4 | 
+
+### HSP must-have spares
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+differential | HSP 02024 |1 |
+front gear | HSP 02030 |1 |
+rear gear | HSP 03015 |1 |e-clip shoud be included
+cups | HSP 02016 |1 |
+pinion gear | HSP 11184 |1 |⌀3.175/5mm, check shaft of your motor
+grub screws | HSP 02099 |1 |
+main gear pin | HSP 08027 |1 |
+small bearings |5x10x4mm | 2 | 
+big bearings |10x15x4mm | 2 | 
 
 ## Other
 
@@ -57,7 +69,9 @@ CA glue |superglue |20ml |tire glue
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-M3 Socket Head Screws | M3 SHCS 2x45 8x30 4x20 4x16 4x12 | |
+M5 Socket Head Screws | M5 SHCS 2x45 | |
+M5 Square Nuts  | | 2 |
+M3 Socket Head Screws | M3 SHCS 8x30 4x20 4x16 4x12 | |
 M3 Flat Head Screws | M3 FHCS 30/25/20/16/12mm |20pcs each |
 M3 Thin Square Nuts  |DIN 562 |50 |ht. 1.8mm
 M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |12 | for arm hinges

@@ -5,6 +5,8 @@ Make sure to print [this](/Calibration.stl) first for every filament to make sur
 
 Files in STEP folder are modified from original Robak v2.2. Files in STL folder haven't changed.
 
+For 'Link' you can take either the new space-efficient one or the original.
+
 ## ABS/ASA/Nylon/PC
 Part | Number | Support
 --- | --- | ---
@@ -30,5 +32,5 @@ RRHubToeIn | 2 | Optional
 BodyClip | 1 | No
 BodyGroove | 1 | No
 TopDeck | 1 | No
-
-The 2x brace and body can be printed from any material without supports.
+Brace | 2 | No
+Body | 1 | No
