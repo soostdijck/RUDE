@@ -24,12 +24,12 @@ ServoMount / ESCbracket should be adjusted for your ESC. EZRUN MAX10 is supporte
 
 Part | Number | Support
 --- | --- | ---
+RRHubToeIn | 2 | Optional
 Chassis | 1 | No
 Tower | 2 | No
 Arms | 1 | No
 UpperArms | 1 | No
 HubCarrierF | 2 | No
-RRHubToeIn | 2 | Optional
 BodyClip | 1 | No
 BodyGroove | 1 | No
 TopDeck | 1 | No

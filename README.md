@@ -7,7 +7,7 @@ If you break this car after flying out of your apartment window I consider this 
 
 Requires a 261x261 bed. For smaller beds the chassis needs to be splitted.
 
-[Printing instructions](docs/Printing.md)
+[Printing instructions](docs/printing.md)
 
 [Bill Of Materials](docs/BOM.md)
 
