@@ -1,6 +1,6 @@
 # BOM
 
-Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + hexnuts are necessary if you come from Robak.
+Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + square/hex-nuts are necessary if you come from Robak.
 
 This car can handle a more powerful motor than Robak, I don't advise anything below 3S.
 
