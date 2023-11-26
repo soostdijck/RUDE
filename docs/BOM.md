@@ -8,7 +8,7 @@ This car can handle a more powerful motor than Robak, I don't advise anything be
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-ESC + motor | 36xx or 42xx up to 80mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length. 42mm motor supported but untested as of yet. A special chassis for 74-80mm motors is available.
+ESC + motor | 36xx or 42xx up to 80mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length. 42mm motor supported but untested as of yet.
 ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 series are great
 battery for recommended motor | 4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
 RX + TX | Dumbo RC X6 | 1 |long range; easy to setup
@@ -71,7 +71,7 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 M5 Socket Head Screws | M5 SHCS 2x45 | |
 M5 Square Nuts  | | 2 |
-M3 Socket Head Screws | M3 SHCS 8x30 4x20 4x16 4x12 | |
+M3 Socket Head Screws | M3 SHCS 8x30 4x20 4x16 4x12 1x6 | |
 M3 Flat Head Screws | M3 FHCS 30/25/20/16/12mm |20pcs each |
 M3 Thin Square Nuts  |DIN 562 |50 |ht. 1.8mm
 M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |12 | for arm hinges
@@ -85,5 +85,3 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 M2x10mm Socket Head Screws |DIN 912; ISO 4762 |10 |bolt 2 body parts together
 M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together
-
-## More body options planned
