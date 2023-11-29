@@ -1,6 +1,6 @@
 # BOM
 
-Special attention to HSP 102011 and 2x190mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + square/hex-nuts are necessary if you come from Robak.
+Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + square/hex-nuts are necessary if you come from Robak.
 
 This car can handle a more powerful motor than Robak, I don't advise anything below 3S.
 
@@ -57,8 +57,7 @@ Part | Name | QTY | Notes
 wheels | HSP 88005 | 4 | metal rims preferred ( https://aliexpress.com/item/4000537479774.html )
 shocks |INJORA Aluminum Shock Absorber 100mm |4 |https://www.aliexpress.com/item/1005004599082114.html
 battery straps |20mm width; 200mm long |2 |max width 25mm
-DIY hinge pins |⌀3mm steel rod | 4x70mm | https://aliexpress.com/item/1005005041338002.html
-DIY hinge pins |⌀5mm steel rod | 2x190mm | buying 400mm rods is best value [different from stock Robak]
+DIY hinge pins |⌀5mm steel rod | 2x190mm + 4x66mm | https://aliexpress.com/item/1005005041338002.html buying 400mm rods is best value [different from stock Robak]
 sillicone oil (front & rear shocks) | 700 cSt | 20ml | anything 500-1000 cSt will work
 sillicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work
 thread-locking fluid | | 20ml |Medium strength (blue) to strong (green)

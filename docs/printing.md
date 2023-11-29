@@ -1,12 +1,12 @@
 # Print settings
 
-Everything must be printed with 10 walls and 100% infill. Abrasives are fine.
+Everything must be printed with 8 walls and 100% infill. Non-abrasive TPU recommended. Even with abrasive filaments its not weak but has less tensile strength so it breaks much faster.
 
-Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. TPU shrinkage should be 99.8-100% and for ABS shrinkage 99.3-99.5%.
+Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. As a reference: my TPU shrinkage is 99.8% and for ABS shrinkage 99.3%.
 
 STEP files are different from original Robak v2.2. STL files haven't changed.
 
-## ABS/ASA/Nylon/PC
+## ABS/ASA/PC/PA12
 
 Part | Number | Support
 --- | --- | ---
