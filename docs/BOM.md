@@ -2,7 +2,7 @@
 
 Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm rods which are not included in stock Robak BOM. Only additional SHCS M3/M5 bolts + square/hex-nuts are necessary if you come from Robak.
 
-This car can handle a more powerful motor than Robak, I don't advise anything below 3S.
+This car can handle much more power than Robak, I don't advise anything below 3S.
 
 ## Electronics
 
@@ -10,7 +10,7 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | 36xx or 42xx up to 80mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length. 42mm motor supported but untested as of yet.
 ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 series are great
-battery for recommended motor | 4S 4700mAh |1 | https://aliexpress.com/item/1005003343658769.html
+battery for recommended motor | 4S 4700mAh | 1 | https://aliexpress.com/item/1005003343658769.html
 RX + TX | Dumbo RC X6 | 1 |long range; easy to setup
 servo | DS3240-180 or any other 180 deg variant | 1 | https://aliexpress.com/item/1943129663.html
 

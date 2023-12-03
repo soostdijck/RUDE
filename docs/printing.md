@@ -30,8 +30,16 @@ Tower | 2 | No
 Arms | 1 | No
 UpperArms | 1 | No
 HubCarrierF | 2 | No
-BodyClip | 1 | No
-BodyGroove | 1 | No
 TopDeck | 1 | No
 Brace | 2 | No
+
+
+# Stock body
+
+## TPU 95A or harder
+
+Part | Number | Support
+--- | --- | ---
+BodyClip | 1 | No
+BodyGroove | 1 | No
 Body | 1 | No
