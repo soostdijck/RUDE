@@ -12,5 +12,5 @@ Requires a 261x261 bed. For smaller beds the chassis needs to be splitted.
 
 [Assembly](docs/Assembly.md)
 
-[RUDE Discord](https://discord.gg/xJ9r2gzk)
+[RUDE Discord](https://discord.gg/Cc8tsbZAE3)
 
