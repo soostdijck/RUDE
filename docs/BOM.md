@@ -10,10 +10,10 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | 36xx or 42xx up to 80mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length, 4278 = 42mm diameter & 78mm length.
 ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 sensored series are great
-Motor | Ysido 4274 | 1 | Cheap but overpowered 1:8 https://aliexpress.com/item/1005005946742556.html
-Battery for recommended motor | 4S 4700mAh | 1 | https://aliexpress.com/item/1005003343658769.html
+Battery for recommended MAX10 combo | 4S 4700mAh | 1 | https://aliexpress.com/item/1005003343658769.html
 RX + TX | Dumbo RC X6 | 1 |long range; easy to setup
 Servo | DS3240-180 or any other 180 deg variant | 1 | https://aliexpress.com/item/1943129663.html
+1:8 Motor | Ysido 4274 | 1 | Cheap but overpowered 1:8 https://aliexpress.com/item/1005005946742556.html NOTE: you need a 1:8 ESC for this. [has 6.5mm banana plugs instead of 4mm]
 
 ## HSP
 
