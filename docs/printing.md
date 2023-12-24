@@ -1,6 +1,6 @@
 # Print settings
 
-The chassis requires a 261x261 bed. Alternatively the chassis needs to be splitted or you can order a chassis from [my website WIP]().
+The chassis requires a 261x261 bed. Alternatively the chassis needs to be splitted or you can order a chassis from [my future webshop?]().
 
 Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but break faster. On the other hand abrasive TPU is more rigid. I need more testing to know what is best.
 
