@@ -6,9 +6,13 @@ Everything must be printed with 8 walls and 100% infill. Abrasive filaments are 
 
 Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. As a reference: my TPU shrinkage is 99.8% and for ABS shrinkage 99.3%.
 
-## ABS/ASA/PC/PA12
+## PC
+
+PA12 is suspected to be a good alternative. PA6 may suffice too.
 
 Also 100% infill!
+
+ABS/ASA are not recommended anymore because RUDE receives a lot harsh treatment and diffs are receiving a lot of forces, causing them to crack in places and your car to make noises everywhere [damaging metal parts].
 
 Part | Number | Support
 --- | --- | ---
@@ -19,7 +23,7 @@ DiffShims? | 2 | No
 BellCranks | 1 | No
 ServoMount | 1 | No
 
-ServoMount may be adjusted for your ESC. Ezrun MAX10 is supported and fits on top of it. Please share your custom mounts on discord.
+ServoMount may be adjusted for your ESC. Ezrun MAX10 and Quicrun 8BL150 are especially supported with bolted mounts. [Unverified but I suspect that Ezrun MAX8 has same mounting pattern as 8BL150 and that the Quicrun 10BL120 has same mounting pattern as MAX10.] Please share your custom mounts on discord.
 
 ## TPU 98A or harder
 
