@@ -6,6 +6,10 @@ Everything must be printed with 8 walls and 100% infill. Abrasive filaments are 
 
 Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. As a reference: my TPU shrinkage is 99.8% and for ABS shrinkage 99.3%.
 
+For quality prints I recommend this guide: https://ellis3dp.com/Print-Tuning-Guide/ basically walk through Tuning once and after that you only have to adjust PA and EM for different filaments and adjust first layer squish every now and then.
+
+Always dry your new TPU spool for a few hours in the oven at 60C. It's always wet from factory, which makes it hard to print and causes rough texture. If you use a new brand for the first time: set a low speed and set retraction to 0 mm, these can be experimentally increased (especially for harder TPU's) in consequent prints. You may need to do more adjustments but these are most important.
+
 ## PC
 
 PA12 is suspected to be a good alternative. PA6 may suffice too.
