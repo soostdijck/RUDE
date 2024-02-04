@@ -12,7 +12,7 @@ Select your own hardware with the BOM as your guide. All plastic parts can be 3D
 
 [Assembly](docs/Assembly.md)
 
-[RUDE Discord](https://discord.gg/Cc8tsbZAE3)
+[RUDE Discord](https://discord.gg/Cc8tsbZAE3) (also contains new RUDE parts created/modified by users)
 
 
 ### FAQ: What is this car going to cost me?
