@@ -35,11 +35,11 @@ Note: TPU 95A may work as well, but seems much more flexible than 98A. If you tr
 
 Part | Number | Support
 --- | --- | ---
-RRHubToeIn | 2 | Optional
+HubCarrierR_ToeIn2 | 2 | Optional
 Chassis | 1 | No
 Arms | 1 | No
 UpperArms | 1 | No
-HubCarrierF | 2 | No
+CarrierHubF | 2 | No
 TopDeck | 1 | No
 Tower | 2 | No
 HSP02016_insert? | 1? | No
