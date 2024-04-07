@@ -38,14 +38,14 @@ Note: TPU 95A is close in number but much more flexible than 98A and likely won'
 
 Part | Number | Support
 --- | --- | ---
-HubCarrierR_ToeIn2 | 2 | Optional
 Chassis | 1 | No
 Arms | 1 | No
 UpperArms | 1 | No
 CarrierHubF | 2 | No
+CarrierHubR | 2 | No
 TopDeck | 1 | No
 Tower | 2 | No
-HSP02016_insert? | 0-2 | No
+HSP02016_insert | 0-2 | No
 
 Use a HSP02016_insert if your middle axis can (almost) escape. That one doesn't need to be TPU.
 
