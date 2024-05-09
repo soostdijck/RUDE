@@ -65,7 +65,7 @@ Brace | 2 | No
 
 ## Any material
 
-Avoid materials with weak layer adhesion. ASA/ABS bodies crack easily along the thin layer lines. In discord is a mod that includes a rear wing. BodyR_Clip has been removed in favor of an M8 bolt through TopDeckR, [see here](docs/printing.md).
+Avoid materials with weak layer adhesion. ASA/ABS bodies crack easily along the thin layer lines. In discord is a mod that includes a rear wing. BodyR_Clip has been removed in favor of an M8 bolt through TopDeckR, [see here](Assembly.md).
 
 Part | Number | Support
 --- | --- | ---
