@@ -18,6 +18,7 @@ The bearing in motorplate should be locked with a M3 washer + bolt (4mm). This w
 ![motorplate_bearing_lock.jpg](motorplate_bearing_lock.jpg)
 
 You need to drill a 8mm hole in the rear of the body, to fasten the body with a wing nut to the M8x60mm bolt that is coming out of TopDeckR.
+![M8_body.jpg](M8_body.jpg)
 
 Tires need to be glued to the rims, this needs to be waterproof so there is no water/dirt going inside the wheels, making your car harder to control. Power glue may suffice for plastic rims. ZAP-RT for metal.
 

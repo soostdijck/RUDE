@@ -25,7 +25,7 @@ differential | HSP 02024 |2 | https://aliexpress.com/item/1178316591.html I reco
 front gear | HSP 02030 |1 |
 rear gear | HSP 03015 |1 |e-clip shoud be included
 cvd | HSP 108015 |4 |2 types available; more info on robaki.dev
-6mm wheel hex | HSP 122042 |4 | 6mm! https://s.click.aliexpress.com/e/_DnSrrOX
+5/6mm wheel hex | HSP 122042 |4 | https://s.click.aliexpress.com/e/_DnSrrOX depth depends a bit on the type of wheel. For the recommended wheels 5/6mm.
 cups | HSP 02016 |2 |
 servo link | HSP 02012 |1 |
 steering links | HSP 06016 |1 |one pair

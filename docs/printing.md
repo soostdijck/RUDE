@@ -2,7 +2,9 @@
 
 The chassis requires a 261x261 bed. In discord is a usermod available for 250x250 beds (cut corners) and another mod for 182x182 beds (split chassis).
 
-Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but have worse layer adhesion. On the other hand CF/GF-filled TPU could be stiffer. More testing needs to be done to know what is best.
+Everything must be printed with 8 walls and 100% infill, unless otherwise noted.
+
+Abrasive filaments are not weak but have worse layer adhesion. On the other hand CF/GF-filled TPU could be stiffer. More testing needs to be done to know what is best.
 
 ### Calibration
 
@@ -18,8 +20,6 @@ Always dry your new TPU spool for a few hours in the oven at 60C. It's always we
 ## PC
 
 [For motorplate & bellcranks, ABS/ASA are fine too, but they are too weak for link/diffcase/servomount. PA deforms so Nylon is disrecommended.]
-
-100% infill!
 
 Part | Number | Support
 --- | --- | ---
@@ -52,7 +52,7 @@ Use a HSP02016_insert if your middle axis can (almost) escape. That one doesn't 
 
 ## TPU
 
-2/3 walls and 10-40% infill (depends on hardness of your TPU, but a soft brace can absorb some impact).
+2/3 walls and 0-40% infill (depends on hardness of your TPU, but a soft brace can absorb some impact).
 
 Part | Number | Support
 --- | --- | ---
@@ -65,10 +65,9 @@ Brace | 2 | No
 
 ## Any material
 
-Avoid materials with weak layer adhesion. ASA/ABS bodies crack easily along the thin layer lines. In discord is a mod that includes a rear wing.
+Avoid materials with weak layer adhesion. ASA/ABS bodies crack easily along the thin layer lines. In discord is a mod that includes a rear wing. BodyR_Clip has been removed in favor of an M8 bolt through TopDeckR, [see here](docs/printing.md).
 
 Part | Number | Support
 --- | --- | ---
-BodyClip | 1 | No
-BodyGroove | 1 | No
+BodyF_Clip | 1 | No
 Body | 1 | No
